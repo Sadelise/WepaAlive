@@ -11,14 +11,14 @@ public class AliveApplication {
     }
 
     public static String githubUrl() {
-        return "";
+        return "https://github.com/Sadelise/WepaAlive";
     }
 
     public static String travisUrl() {
-        return "";
+        return "https://travis-ci.org/Sadelise/WepaAlive";
     }
 
     public static String herokuUrl() {
-        return "";
+        return "https://stormy-brook-27001.herokuapp.com/";
     }
 }
