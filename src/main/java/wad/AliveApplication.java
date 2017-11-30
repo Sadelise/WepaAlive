@@ -19,6 +19,6 @@ public class AliveApplication {
     }
 
     public static String herokuUrl() {
-        return "https://stormy-brook-27001.herokuapp.com/";
+        return "https://aqueous-castle-72807.herokuapp.com/";
     }
 }
